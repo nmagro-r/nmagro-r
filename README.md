@@ -6,7 +6,7 @@
 ![Now](https://img.shields.io/badge/Now-AI_%26_Data_specialization-d97706?style=flat-square&labelColor=1F3A5F)
 ![Based in](https://img.shields.io/badge/Based_in-Madrid-2563eb?style=flat-square&labelColor=1F3A5F)
 
-I'm a full-stack developer based in Madrid. I have just completed the core curriculum at [42 Madrid](https://www.42madrid.com/), the coding campus of Fundación Telefónica, and I'm now starting its AI & Data specialization. I also work part-time on the API, the website and the Android app of [Realty Investor](https://realtyinvestor.eu), a proptech startup.
+I'm a full-stack developer based in Madrid. I have just completed the Common Core at [42 Madrid](https://www.42madrid.com/), the coding campus of Fundación Telefónica, and I'm now starting its AI & Data specialization. I also work part-time on the API, the website and the Android app of [Realty Investor](https://realtyinvestor.eu), a proptech startup.
 
 Before writing code, I spent ten years working with people as a personal trainer. I still work the same way: listen to what people need, measure, and keep going until it works.
 
