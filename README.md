@@ -2,7 +2,7 @@
 
 ### Hi, I'm Ignacio
 
-![42 Madrid](https://img.shields.io/badge/42_Madrid-core_curriculum_completed-0d9488?style=flat-square&labelColor=1F3A5F)
+![42 Madrid](https://img.shields.io/badge/42_Madrid-Common_Core_completed-0d9488?style=flat-square&labelColor=1F3A5F)
 ![Now](https://img.shields.io/badge/Now-AI_%26_Data_specialization-d97706?style=flat-square&labelColor=1F3A5F)
 ![Based in](https://img.shields.io/badge/Based_in-Madrid-2563eb?style=flat-square&labelColor=1F3A5F)
 
